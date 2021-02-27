@@ -21,6 +21,7 @@ cd remesh
 Next, you'll need to run `bundle install`
 
 To run the test suite, just type `rspec` and hit enter
+To see test coverage after running `rspec`, go to the coverage folder in the root directory and open `index.html` in a browser window.
 
 ## Commands
 
